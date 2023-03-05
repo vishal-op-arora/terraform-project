@@ -1,0 +1,5 @@
+aws_region          = "us-east-1"
+security_group_name = "web-server-prj3"
+ec2_instance_name   = "ec2-instance-prj3"
+ec2_instance_type   = "t2.micro"
+ec2_instance_ami    = "ami-0dfcb1ef8550277af"
